@@ -16,5 +16,6 @@
 
 ## 数据结构与算法
 
-* [LeetCode](leetcode.md)
+* [LeetCode](leetcode/README.md)
+  * [Two Sum](leetcode/two-sum.md)
 
